@@ -1,6 +1,6 @@
 # Hi, I'm Nicholas 👋
 
-Welcome to my GitHub portfolio! I'm a Software Developer and AI/Machine Learning Engineer passionate about building impactful projects with code.
+Welcome to my GitHub portfolio! I'm a Website Developer and AI/Machine Learning Engineer passionate about building impactful projects with code.
 
 ## 🚀 About Me
 - 💡 I'm interested in Web Development and AI/ML Engineering.
